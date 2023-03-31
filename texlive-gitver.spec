@@ -1,6 +1,6 @@
 Name:		texlive-gitver
 Version:	63920
-Release:	1
+Release:	2
 Summary:	Get the current git hash of a project and typeset it in the document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitver
