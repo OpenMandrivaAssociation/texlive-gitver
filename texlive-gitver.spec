@@ -3,7 +3,7 @@ Version:	63920
 Release:	2
 Summary:	Get the current git hash of a project and typeset it in the document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitver
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gitver
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitver.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitver.doc.r%{version}.tar.xz
